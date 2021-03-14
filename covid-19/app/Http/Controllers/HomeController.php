@@ -12,7 +12,7 @@ class HomeController extends Controller
      *
      * @return void
      */
-    public $countries_to_find = ['india'];
+    public $countries_to_find = ['India'];
 
     public function __construct()
     {

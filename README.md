@@ -9,3 +9,4 @@
 6. rename ".env.example"  file to ".env".
 7. create database and setup credentials in .env file.
 8. run "php atisan migrate" in cmd in working directory. 
+9. finally do "php artisan serve" in cmd and go to the given url.

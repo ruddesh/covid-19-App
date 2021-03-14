@@ -1,7 +1,7 @@
 # covid-19
 
 ## Installation instructions
-1. Clone the project or download zip.
+1. Clone the project => "git clone https://github.com/ruddesh/covid-19-App.git"  or download zip.
 2. Place the covid-19 folder in the working directory.
 3. open cmd and cd into your project
 4. Install Composer Dependencies with "composer install" in cmd inside working directory.
